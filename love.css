@@ -1,0 +1,18 @@
+.divcls{
+    background-color: blanchedalmond;
+    color: rgb(255, 23, 23);
+    border: 5px solid black;
+    width: 29%;
+    float: left;
+    margin: 2px;
+    border-radius: 25px;
+    padding: 7px;
+    text-shadow: 3px;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+    text-justify: auto;
+}
